@@ -16,4 +16,5 @@
   }
   .test03 {
     display: inherit;
+    font-size: 14px;
   }
