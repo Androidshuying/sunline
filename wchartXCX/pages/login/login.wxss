@@ -8,9 +8,9 @@
   text-align: center;
   }
   .test02 {
-    display: flex;
+    display: block;
     width: 80%;
-    background-color: #0000ff;
+    background-color: #ff0;
     margin: 0 auto;
     text-align: center;
   }
