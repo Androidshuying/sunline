@@ -58,7 +58,7 @@ Page({
     //   title: 'xxxxxx',
     // })
     wx.navigateTo({
-      url: 'index',
+      url: '../login/login',
       success: function(res) {console.log('success')},
       fail: function (res) { console.log('error')},
       complete: function (res) { console.log('final')},

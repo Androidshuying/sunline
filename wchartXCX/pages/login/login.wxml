@@ -1,0 +1,6 @@
+<!--pages/login/login.wxml-->
+<text class='test01'>我的第一个页面</text>
+<view class='test02'>
+  <label class='test03'>xxx</label>
+  <label class='test03'>xxx</label>
+</view>

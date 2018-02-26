@@ -1,0 +1,19 @@
+/* pages/login/login.wxss */
+.test01{
+  font-size: 14px;
+  display: block;
+  width: 75%;
+  margin: 0 auto;
+  background-color: #0f0;
+  text-align: center;
+  }
+  .test02 {
+    display: flex;
+    width: 80%;
+    background-color: #ff0;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .test03 {
+    display: inherit;
+  }
