@@ -10,7 +10,7 @@
   .test02 {
     display: flex;
     width: 80%;
-    background-color: #ff0;
+    background-color: #0000ff;
     margin: 0 auto;
     text-align: center;
   }
